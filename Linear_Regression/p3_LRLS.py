@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from utils import calculate_slope_intercept, abline
+from utils.utils import calculate_slope_intercept, abline
 
 np.random.seed(0)
 x = np.random.rand(100,1)

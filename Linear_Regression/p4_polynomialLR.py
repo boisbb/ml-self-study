@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from polynomialLinearRegressionGD import PolynomialLinearRegressionGD
-from utils import calculate_r_squared
+from src.polynomialLinearRegressionGD import PolynomialLinearRegressionGD
+from utils.utils import calculate_r_squared
 
 
 np.random.seed(42)

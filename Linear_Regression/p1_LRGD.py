@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from linearRegressionGD import LinearRegressionGD
+from src.linearRegressionGD import LinearRegressionGD
 
-from utils import *
+from utils.utils import *
 
 # https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2
 

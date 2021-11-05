@@ -1,5 +1,5 @@
 import numpy as np
-from utils import gradients, x_transform, calculate_mse
+from .utils import gradients, x_transform, calculate_mse
 
 # https://towardsdatascience.com/polynomial-regression-in-python-b69ab7df6105
 
